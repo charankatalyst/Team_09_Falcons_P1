@@ -1,0 +1,5 @@
+﻿"event_id","time","device_known","location_change","mfa_result","account_change","analyst_note"
+"A-101","09:12","no","yes","passed","none","New device; travel context unknown"
+"A-102","09:14","no","yes","failed_then_passed","recovery_settings_viewed","Unusual combination; verify safely"
+"A-103","09:19","yes","no","passed","none","Known device; context appears consistent"
+"A-104","09:23","no","no","passed","none","New device alone is not proof of an attack"
